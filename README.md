@@ -10,22 +10,22 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ## Tracking With Object Detection Demo
 
-<https://user-images.githubusercontent.com/104087274/234874398-75248e8c-6965-4c91-9176-622509f0ad86.mov>
+[screen-capture (1).webm](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/e37b2592-efba-44a8-8370-44f88958b077)
+
 
 ## Demo Pics
-![image](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/d0c00dc4-56b9-48c0-a01c-8ca78e3034d4)
 
 ### Home page
+![image](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/3b489701-c513-4e69-8e9e-c9ccbc2d8016)
 
-<img src=![image](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/9b3c49ea-bb12-49da-a817-0d19fa61bed6)>
 
 ### Page after uploading an image and object detection
+![image](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/1a10a4e5-3168-4bf0-8ae7-97f477686445)
 
-<img src=![image](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/eacdc527-0f2c-4c57-9f1b-1b4173ac2084)>
 
 ## Requirements
 
-Python 3.6+
+Python 3.10
 YOLOv8
 Streamlit
 
