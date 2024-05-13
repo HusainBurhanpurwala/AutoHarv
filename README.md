@@ -13,6 +13,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 <https://user-images.githubusercontent.com/104087274/234874398-75248e8c-6965-4c91-9176-622509f0ad86.mov>
 
 ## Demo Pics
+![image](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/d0c00dc4-56b9-48c0-a01c-8ca78e3034d4)
 
 ### Home page
 
