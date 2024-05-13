@@ -1,4 +1,4 @@
-# Real-time Object Detection and Tracking with YOLOv8 and Streamlit
+# AutoHarv
 
 This repository is a comprehensive open-source project that demonstrates the integration of object detection and tracking using the YOLOv8 object detection algorithm and Streamlit, a popular Python web application framework for building interactive web applications. This project provides a user-friendly and customizable interface that can detect and track objects in real-time video streams.
 
@@ -16,15 +16,11 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ### Home page
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic1.png" >
+<img src=![image](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/9b3c49ea-bb12-49da-a817-0d19fa61bed6)>
 
 ### Page after uploading an image and object detection
 
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/pic3.png" >
-
-### Segmentation task on image
-
-<img src="https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/blob/master/assets/segmentation.png" >
+<img src=![image](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/eacdc527-0f2c-4c57-9f1b-1b4173ac2084)>
 
 ## Requirements
 
@@ -103,9 +99,10 @@ VIDEOS_DICT = {
 
 - Select the source as YouTube
 - Copy paste the url inside the text box.
-- The detection/segmentation task will start on the YouTube video url
+- The detection task will start on the YouTube video url
 
-<https://user-images.githubusercontent.com/104087274/226178296-684ad72a-fe5f-4589-b668-95c835cd8d8a.mov>
+[screen-capture.webm](https://github.com/HusainBurhanpurwala/AutoHarv/assets/91205243/20119e93-341b-48f9-90c6-c7ec1babf029)
+
 
 ## Acknowledgements
 
